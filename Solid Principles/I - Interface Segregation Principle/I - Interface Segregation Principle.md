@@ -1,0 +1,1 @@
+Interface should be created such that clients should not implement the unnecessary function they do not need.
