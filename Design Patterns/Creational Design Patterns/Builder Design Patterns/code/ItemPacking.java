@@ -1,4 +1,4 @@
-public interface Packing {
+public interface ItemPacking {
     String pack();
     int price();
 }

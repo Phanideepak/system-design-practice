@@ -1,4 +1,4 @@
-public abstract class CD implements Packing{
+public abstract class CD implements ItemPacking {
     @Override
     public abstract String pack();
 }

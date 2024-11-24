@@ -1,0 +1,1 @@
+Abstract Factory Method Pattern says that just define an interface or abstract class for creating families of related objects but without specifying their concrete class.  It is also called Kit Design Pattern.

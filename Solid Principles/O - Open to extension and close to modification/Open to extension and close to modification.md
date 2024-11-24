@@ -1,1 +1,0 @@
-Open to extension and close to modification.

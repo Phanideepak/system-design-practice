@@ -1,3 +1,5 @@
+package Example;
+
 interface Keyboard{
 
 }

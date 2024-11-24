@@ -1,0 +1,1 @@
+A Decorator Pattern says that just "attach a flexible additional responsibilities to an object dynamically".
