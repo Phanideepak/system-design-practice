@@ -1,3 +1,4 @@
+package Example;
 interface Prototype{
     Prototype getClone();
 }
