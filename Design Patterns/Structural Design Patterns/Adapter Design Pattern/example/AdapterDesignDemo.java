@@ -1,4 +1,4 @@
-import javax.print.attribute.standard.Media;
+package example;
 
 interface MediaPlayer{
     void play(String audioType, String fileName);

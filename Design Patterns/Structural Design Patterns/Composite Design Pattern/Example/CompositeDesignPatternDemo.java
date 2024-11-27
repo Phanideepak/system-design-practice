@@ -1,5 +1,4 @@
 import java.util.List;
-import java.util.Iterator;
 import java.util.ArrayList;
 
 interface Employee{
@@ -23,10 +22,6 @@ class BankManager implements Employee{
         this.id = id;
         this.name = name;
         this.salary = salary;
-    }
-
-    public BankManager(int id2, String name2, int i) {
-        //TODO Auto-generated constructor stub
     }
 
     @Override
@@ -122,7 +117,7 @@ public class CompositeDesignPatternDemo{
     public static void main(String[] args) {
         Employee emp1 = new Cashier(101, "Sonam Kumar",20000);
         Employee emp2 = new Cashier(102, "mOHAN KUMAR", 3000);
-        Employee manager = new BankManager(103, "Champak Setty", 100000);
+        Employee manager = new BankManager(103, "Champak Setty", 100000.0);
 
         manager.add(emp1);
         manager.add(emp2);
