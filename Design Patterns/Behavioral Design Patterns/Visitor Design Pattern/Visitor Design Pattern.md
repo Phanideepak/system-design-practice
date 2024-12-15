@@ -1,4 +1,4 @@
-The **Visitor Design Pattern** is a behavioral design pattern that allows you to separate algorithms from the objects on which they operate. It enables adding new operations to a group of objects without modifying their structures. The pattern is particularly useful when you want to perform different operations on a collection of objects with varying types.
+The **Visitor Design Pattern** is a behavioral design pattern that allows you to separate algorithms from the objects on which they operate. `It adds new operations to existing classes without modifying their structure`. The pattern is particularly useful when you want to perform different operations on a collection of objects with varying types. It is also called Double Dispatch.
 
 ---
 
